@@ -1,0 +1,3 @@
+[submodule "movie-web"]
+	path = movie-web
+	url = https://github.com/movie-web/movie-web/
